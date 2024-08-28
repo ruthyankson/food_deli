@@ -1,0 +1,15 @@
+.cart-total-details {
+    display: flex;
+    justify-content: space-between;
+    color: #555;
+}
+
+.total-cart-details hr {
+    margin: 10px 0;
+}
+
+.total-cart-details hr {
+    height: 1px;
+    background-color: #e2e2e2;
+    border: none;
+}
